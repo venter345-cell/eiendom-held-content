@@ -1,0 +1,114 @@
+{
+  "site_title": "EIENDOM HELD: Content vir Albert",
+  "weeks": [
+    {
+      "id": "week-1",
+      "title": "Week 1",
+      "note": "Eerste pak: 3 posts in die Eiendom Held reeks.",
+      "posts": [
+        {
+          "id": "superpower-leverage",
+          "issue": "#1",
+          "title": "Jou eiendom Superpower: Leverage",
+          "type": "Enkelbeeld, 1080x1350 (Instagram en Facebook feed)",
+          "slides": [
+            {
+              "src": "img/week-1/superpower-leverage/slide-01.webp",
+              "download": "dl/week-1/superpower-leverage/superpower-leverage-slide-01.png",
+              "alt": "Superpower Leverage, skyfie 1 van 1"
+            }
+          ],
+          "zip": "dl/week-1/superpower-leverage-alle-skyfies.zip",
+          "trailer": {
+            "label": "Leverage en Perceived Value trailer",
+            "url": "https://vimeo.com/1118299611"
+          },
+          "caption": "JOU EIENDOM SUPERPOWER: LEVERAGE ⚡ Ek hou die bate én ek het die geld. Dis die secret sauce van eiendom 👌🏻☺️\n\nContainer huisies en log cabins? Die bank leen nie daarteen nie, so jou geld sit vas ☝🏻\n\nEk wys jou hoe leverage werk in die Leverage en Perceived Value werkswinkel in Eiendom Akademie 👇🏻\nalbertvanwyk.com/dieeiendomakademie\nKyk die trailer: vimeo.com/1118299611\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #propertyinvestment #EiendomAkademie"
+        },
+        {
+          "id": "villain",
+          "issue": "#2",
+          "title": "Wie is die villain?",
+          "type": "Karrousel, 5 skyfies, 1080x1350 (Instagram en Facebook)",
+          "slides": [
+            {
+              "src": "img/week-1/villain/slide-01.webp",
+              "download": "dl/week-1/villain/villain-slide-01.png",
+              "alt": "Wie is die villain, skyfie 1 van 5"
+            },
+            {
+              "src": "img/week-1/villain/slide-02.webp",
+              "download": "dl/week-1/villain/villain-slide-02.png",
+              "alt": "Wie is die villain, skyfie 2 van 5"
+            },
+            {
+              "src": "img/week-1/villain/slide-03.webp",
+              "download": "dl/week-1/villain/villain-slide-03.png",
+              "alt": "Wie is die villain, skyfie 3 van 5"
+            },
+            {
+              "src": "img/week-1/villain/slide-04.webp",
+              "download": "dl/week-1/villain/villain-slide-04.png",
+              "alt": "Wie is die villain, skyfie 4 van 5"
+            },
+            {
+              "src": "img/week-1/villain/slide-05.webp",
+              "download": "dl/week-1/villain/villain-slide-05.png",
+              "alt": "Wie is die villain, skyfie 5 van 5"
+            }
+          ],
+          "zip": "dl/week-1/villain-alle-skyfies.zip",
+          "trailer": {
+            "label": "Kies die regte Tenant trailer",
+            "url": "https://vimeo.com/1118295716"
+          },
+          "caption": "WIE IS DIE VILLAIN? 🦹 Jou huurder betaal nie en jy wil die krag afsit? Moenie ☝🏻\n\nKrag afsit, water afsit, deure afhaal of ander mense laat intrek om 'n huurder uit te kry, is 'n kriminele oortreding. En jy het baie meer om te verloor as die huurder 😅\n\nDaar is 'n wettige pad. Dit staan in die Tenant Management werkswinkel in Eiendom Akademie 👇🏻\nalbertvanwyk.com/dieeiendomakademie\nWil jy van die begin af die regte huurder kies? Kyk die trailer van die Kies die regte Tenant werkswinkel in Eiendom Akademie: vimeo.com/1118295716\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #propertyinvestment #huurders",
+          "alt_caption": {
+            "label": "Ander opsie: Missie-briefing caption",
+            "text": "🎯 MISSIE: Hanteer 'n huurder wat nie betaal nie, sonder om self die villain te word.\n🦹 VILLAIN: Krag afsit, water afsit, deure afhaal, ander mense laat intrek.\n⚡ SUPERPOWER: Voorkoming. Ek vermy eerder die konflik as om dit by die Housing Tribunal te moet oplos.\n🛡️ GEAR UP: Die wettige pad staan in die Tenant Management werkswinkel in Eiendom Akademie 👇🏻\nalbertvanwyk.com/dieeiendomakademie\nTrailer van die Kies die regte Tenant werkswinkel: vimeo.com/1118295716\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #propertyinvestment #EiendomAkademie"
+          }
+        },
+        {
+          "id": "origin-story",
+          "issue": "#3",
+          "title": "Elke held het 'n tuisveld",
+          "type": "Karrousel, 6 skyfies, 1080x1350 (Instagram en Facebook)",
+          "slides": [
+            {
+              "src": "img/week-1/origin-story/slide-01.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-01.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 1 van 6"
+            },
+            {
+              "src": "img/week-1/origin-story/slide-02.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-02.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 2 van 6"
+            },
+            {
+              "src": "img/week-1/origin-story/slide-03.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-03.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 3 van 6"
+            },
+            {
+              "src": "img/week-1/origin-story/slide-04.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-04.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 4 van 6"
+            },
+            {
+              "src": "img/week-1/origin-story/slide-05.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-05.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 5 van 6"
+            },
+            {
+              "src": "img/week-1/origin-story/slide-06.webp",
+              "download": "dl/week-1/origin-story/origin-story-slide-06.png",
+              "alt": "Elke held het 'n tuisveld, skyfie 6 van 6"
+            }
+          ],
+          "zip": "dl/week-1/origin-story-alle-skyfies.zip",
+          "caption": "ELKE HELD HET 'N TUISVELD 🏠 Ek het in die Moot grootgeword en ek ken die huispryse daar per straat, per blok 👌🏻☺️\n\nMy vuisreël: moenie in 'n area koop wat jy nie ken nie ☝🏻\n\nNuwe area? Gaan bly daar, gesels met die mense en gaan kyk baie huise. Ek het meer as twee jaar na die Agulhas gekyk voor ek my eerste eiendom daar gekoop het.\n\nEk wys jou hoe ek die regte area kies in die Hoe om die regte eiendom te kies werkswinkel in Eiendom Akademie 👇🏻\nalbertvanwyk.com/dieeiendomakademie\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #propertyinvestment #EiendomAkademie"
+        }
+      ]
+    }
+  ]
+}
