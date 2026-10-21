@@ -2,6 +2,243 @@
  "site_title": "EIENDOM HELD: Content vir Albert",
  "weeks": [
   {
+   "id": "week-3",
+   "title": "Week 3",
+   "note": "Nog 10 posts uit gereelde vrae: finansiering, strukture, die koopproses en huurders.",
+   "posts": [
+    {
+     "id": "golden-child",
+     "issue": "#9",
+     "title": "Kwalifiseer vir twee? Koop twee",
+     "type": "Karrousel, 3 skyfies, EIENDOM HELD reeks, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/golden-child/slide-01.webp",
+       "download": "dl/week-3/golden-child/golden-child-slide-01.png",
+       "alt": "Kwalifiseer vir twee? Koop twee, skyfie 1 van 3"
+      },
+      {
+       "src": "img/week-3/golden-child/slide-02.webp",
+       "download": "dl/week-3/golden-child/golden-child-slide-02.png",
+       "alt": "Kwalifiseer vir twee? Koop twee, skyfie 2 van 3"
+      },
+      {
+       "src": "img/week-3/golden-child/slide-03.webp",
+       "download": "dl/week-3/golden-child/golden-child-slide-03.png",
+       "alt": "Kwalifiseer vir twee? Koop twee, skyfie 3 van 3"
+      }
+     ],
+     "zip": "dl/week-3/golden-child-alle-skyfies.zip",
+     "trailer": {
+      "label": "Hoe kry jy die geld werkswinkel",
+      "url": "https://www.albertvanwyk.com/kry-die-geld-landing/"
+     },
+     "caption": "WIE IS JOU GOLDEN CHILD? 👑 Hy kan direkteur van meer as een property company op 'n slag wees ☝🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kry-die-geld-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "pre-approval-drie-maande",
+     "issue": "FEED",
+     "title": "Pre-approval is net drie maande geldig",
+     "type": "Kwotasiekaart, donker styl, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/pre-approval-drie-maande/slide-01.webp",
+       "download": "dl/week-3/pre-approval-drie-maande/pre-approval-drie-maande-slide-01.png",
+       "alt": "Pre-approval is net drie maande geldig, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/pre-approval-drie-maande-alle-skyfies.zip",
+     "trailer": {
+      "label": "Hoe kry jy die geld werkswinkel",
+      "url": "https://www.albertvanwyk.com/kry-die-geld-landing/"
+     },
+     "caption": "WANNEER LAAS HET JY 'N PRE-APPROVAL GEKRY? 📅 Beplan jou soektog sodat jy binne drie maande kan bie ☝🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kry-die-geld-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "holding-company",
+     "issue": "#10",
+     "title": "Moenie 'n holding company tussenin sit nie",
+     "type": "Enkelbeeld, EIENDOM HELD reeks, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/holding-company/slide-01.webp",
+       "download": "dl/week-3/holding-company/holding-company-slide-01.png",
+       "alt": "Moenie 'n holding company tussenin sit nie, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/holding-company-alle-skyfies.zip",
+     "trailer": {
+      "label": "Wat is die regte struktuur werkswinkel",
+      "url": "https://www.albertvanwyk.com/wat-is-die-regte-struktuur-landing/"
+     },
+     "caption": "MEER ENTITEITE IS NIE BETER NIE 🏢 Elke ekstra laag is meer admin, en jy wil jou Golden Child status hou ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/wat-is-die-regte-struktuur-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "trust-voor-otp",
+     "issue": "#11",
+     "title": "Jou trust is nog nie klaar nie?",
+     "type": "Karrousel, 3 skyfies, EIENDOM HELD reeks, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/trust-voor-otp/slide-01.webp",
+       "download": "dl/week-3/trust-voor-otp/trust-voor-otp-slide-01.png",
+       "alt": "Jou trust is nog nie klaar nie?, skyfie 1 van 3"
+      },
+      {
+       "src": "img/week-3/trust-voor-otp/slide-02.webp",
+       "download": "dl/week-3/trust-voor-otp/trust-voor-otp-slide-02.png",
+       "alt": "Jou trust is nog nie klaar nie?, skyfie 2 van 3"
+      },
+      {
+       "src": "img/week-3/trust-voor-otp/slide-03.webp",
+       "download": "dl/week-3/trust-voor-otp/trust-voor-otp-slide-03.png",
+       "alt": "Jou trust is nog nie klaar nie?, skyfie 3 van 3"
+      }
+     ],
+     "zip": "dl/week-3/trust-voor-otp-alle-skyfies.zip",
+     "trailer": {
+      "label": "Kry jou eiendom in die regte struktuur werkswinkel",
+      "url": "https://www.albertvanwyk.com/kry-jou-eiendom-in-die-regte-struktuur-landing/"
+     },
+     "caption": "100% LENING? 🏦 Skryf in die OTP dat die trust die maatskappy gaan besit, dan weet die bank van dag een ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kry-jou-eiendom-in-die-regte-struktuur-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "eie-oordragprokureur",
+     "issue": "FEED",
+     "title": "Ek kies my eie oordragprokureur",
+     "type": "Foto pos, feed styl, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/eie-oordragprokureur/slide-01.webp",
+       "download": "dl/week-3/eie-oordragprokureur/eie-oordragprokureur-slide-01.png",
+       "alt": "Ek kies my eie oordragprokureur, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/eie-oordragprokureur-alle-skyfies.zip",
+     "trailer": {
+      "label": "Die eiendom koop proses werkswinkel",
+      "url": "https://www.albertvanwyk.com/eiendom-koop-proses-landing/"
+     },
+     "caption": "HOEKOM KIES EK MY EIE PROKUREUR? ⚖️ Hulle gee my 30% afslag, en onbekendes kan die oordrag maklik 'n maand vertraag ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/eiendom-koop-proses-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "rooi-vlag-otp",
+     "issue": "#12",
+     "title": "Rooi vlag in die OTP",
+     "type": "Enkelbeeld, EIENDOM HELD reeks, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/rooi-vlag-otp/slide-01.webp",
+       "download": "dl/week-3/rooi-vlag-otp/rooi-vlag-otp-slide-01.png",
+       "alt": "Rooi vlag in die OTP, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/rooi-vlag-otp-alle-skyfies.zip",
+     "trailer": {
+      "label": "Koopprys werkswinkel",
+      "url": "https://www.albertvanwyk.com/koop-prys-landing-page/"
+     },
+     "caption": "HET JY AL SO 'N KLOUSULE RAAKGESIEN? 🚩 Lees elke bladsy van die OTP voor jy teken. Daar lê jou onderhandeling ☝🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/koop-prys-landing-page\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "deeltitel-skep",
+     "issue": "FEED",
+     "title": "Ek koop nie deeltitels nie, ek skep hulle",
+     "type": "Kwotasiekaart, skoon styl, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/deeltitel-skep/slide-01.webp",
+       "download": "dl/week-3/deeltitel-skep/deeltitel-skep-slide-01.png",
+       "alt": "Ek koop nie deeltitels nie, ek skep hulle, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/deeltitel-skep-alle-skyfies.zip",
+     "trailer": {
+      "label": "Sectional Title werkswinkel",
+      "url": "https://www.albertvanwyk.com/sectional-title-landing-page/"
+     },
+     "caption": "HOE MAAK EK GELD UIT DEELTITELS? 🏘️ Omdat ek self die skema registreer, kan ek my portefeulje meer leverage 👌🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/sectional-title-landing-page\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "multi-let-huurders",
+     "issue": "FEED",
+     "title": "Wie huur 'n kamer by my?",
+     "type": "Teks karrousel, feed styl, 3 skyfies, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/multi-let-huurders/slide-01.webp",
+       "download": "dl/week-3/multi-let-huurders/multi-let-huurders-slide-01.png",
+       "alt": "Wie huur 'n kamer by my?, skyfie 1 van 3"
+      },
+      {
+       "src": "img/week-3/multi-let-huurders/slide-02.webp",
+       "download": "dl/week-3/multi-let-huurders/multi-let-huurders-slide-02.png",
+       "alt": "Wie huur 'n kamer by my?, skyfie 2 van 3"
+      },
+      {
+       "src": "img/week-3/multi-let-huurders/slide-03.webp",
+       "download": "dl/week-3/multi-let-huurders/multi-let-huurders-slide-03.png",
+       "alt": "Wie huur 'n kamer by my?, skyfie 3 van 3"
+      }
+     ],
+     "zip": "dl/week-3/multi-let-huurders-alle-skyfies.zip",
+     "trailer": {
+      "label": "Kies die regte Huurder werkswinkel",
+      "url": "https://www.albertvanwyk.com/kies-die-regte-huurder-landing/"
+     },
+     "caption": "HOEKOM 'N KAMER? 🛏️ Sowat R4 000 by my, teenoor R7 000 tot R10 000 vir 'n woonstel. Dan het hulle nog geld om te lewe 👌🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kies-die-regte-huurder-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #huurders"
+    },
+    {
+     "id": "bond-originator",
+     "issue": "FEED",
+     "title": "Begin jou span met 'n bond originator",
+     "type": "Foto pos, feed styl, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/bond-originator/slide-01.webp",
+       "download": "dl/week-3/bond-originator/bond-originator-slide-01.png",
+       "alt": "Begin jou span met 'n bond originator, skyfie 1 van 1"
+      }
+     ],
+     "zip": "dl/week-3/bond-originator-alle-skyfies.zip",
+     "trailer": {
+      "label": "Albert se eiendom span werkswinkel",
+      "url": "https://www.albertvanwyk.com/jou-eiendom-belegging-span/"
+     },
+     "caption": "WIE IS AL IN JOU EIENDOM SPAN? 🤝 Ek wys jou elke rol, en jy kry toegang tot my netwerk ☝🏻\n\nKyk in Eiendom Akademie 👇🏻\nalbertvanwyk.com/jou-eiendom-belegging-span\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    },
+    {
+     "id": "gold-rush-huis",
+     "issue": "#13",
+     "title": "Gold rush huis?",
+     "type": "Karrousel, 3 skyfies, EIENDOM HELD reeks, 1080x1350",
+     "slides": [
+      {
+       "src": "img/week-3/gold-rush-huis/slide-01.webp",
+       "download": "dl/week-3/gold-rush-huis/gold-rush-huis-slide-01.png",
+       "alt": "Gold rush huis?, skyfie 1 van 3"
+      },
+      {
+       "src": "img/week-3/gold-rush-huis/slide-02.webp",
+       "download": "dl/week-3/gold-rush-huis/gold-rush-huis-slide-02.png",
+       "alt": "Gold rush huis?, skyfie 2 van 3"
+      },
+      {
+       "src": "img/week-3/gold-rush-huis/slide-03.webp",
+       "download": "dl/week-3/gold-rush-huis/gold-rush-huis-slide-03.png",
+       "alt": "Gold rush huis?, skyfie 3 van 3"
+      }
+     ],
+     "zip": "dl/week-3/gold-rush-huis-alle-skyfies.zip",
+     "trailer": {
+      "label": "Hoe om die regte eiendom te kies werkswinkel",
+      "url": "https://www.albertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing/"
+     },
+     "caption": "WAT KOOP EK EERDER? 🏚️ 'n Goed onderhoude huis in dieselfde straat, met sowat R200 000 se opknapping ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+    }
+   ]
+  },
+  {
    "id": "week-2",
    "title": "Week 2",
    "note": "10 posts uit die mees algemene vrae in die groep. 'n Mengsel van die EIENDOM HELD reeks en skoon feed style.",
@@ -35,10 +272,10 @@
      ],
      "zip": "dl/week-2/waterval-alle-skyfies.zip",
      "trailer": {
-      "label": "Verstaan die Waterval Metode werkswinkel (trailer op die blad)",
+      "label": "Verstaan die Waterval Metode werkswinkel",
       "url": "https://www.albertvanwyk.com/die-waterval-metode-landing/"
      },
-     "caption": "HOEKOM BETAAL EK NIE MY VERBAND AF NIE? 🤔 Ek beplan oor generasies, en by my dood dek lewensversekering alles ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/die-waterval-metode-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+     "caption": "HOEKOM BETAAL EK NIE MY VERBAND AF NIE? 🤔 Ek beplan oor generasies. By my dood dek lewensversekering die skuld ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/die-waterval-metode-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
     },
     {
      "id": "tempo",
@@ -54,7 +291,7 @@
      ],
      "zip": "dl/week-2/tempo-alle-skyfies.zip",
      "trailer": {
-      "label": "Eiendom Belegging Strategie werkswinkel (trailer op die blad)",
+      "label": "Eiendom Belegging Strategie werkswinkel",
       "url": "https://www.albertvanwyk.com/eiendom-strategie-landing/"
      },
      "caption": "HOE VINNIG KOOP JY WEER? ⏳ Ek gee elke eiendom eers tyd om op sy eie voete te staan 👌🏻\n\nEk wys jou my strategie in Eiendom Akademie 👇🏻\nalbertvanwyk.com/eiendom-strategie-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -88,7 +325,7 @@
      ],
      "zip": "dl/week-2/een-huis-drie-woonstelle-alle-skyfies.zip",
      "trailer": {
-      "label": "Property Walk-Throughs (trailer op die blad)",
+      "label": "Property Walk-Throughs",
       "url": "https://www.albertvanwyk.com/property-walk-throughs/"
      },
      "caption": "MULTI-LET OF WOONSTELLE? 🏠 Woonstelle vra meer bouwerk, maar minder huurders om te bestuur. Bereken albei ☝🏻\n\nSien hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/property-walk-throughs\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -107,7 +344,7 @@
      ],
      "zip": "dl/week-2/multi-let-vuisreel-alle-skyfies.zip",
      "trailer": {
-      "label": "Property Walk-Throughs (trailer op die blad)",
+      "label": "Property Walk-Throughs",
       "url": "https://www.albertvanwyk.com/property-walk-throughs/"
      },
      "caption": "HOEVEEL KAMERS IS TE VEEL? 😅 Ek het een huis met elf kamers wat werk, maar dis die uitsondering ☝🏻\n\nSien my huise in Eiendom Akademie 👇🏻\nalbertvanwyk.com/property-walk-throughs\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -126,7 +363,7 @@
      ],
      "zip": "dl/week-2/duurste-huis-alle-skyfies.zip",
      "trailer": {
-      "label": "Koopprys werkswinkel (trailer op die blad)",
+      "label": "Koopprys werkswinkel",
       "url": "https://www.albertvanwyk.com/koop-prys-landing-page/"
      },
      "caption": "WAT LIG JOU HUIS SE WAARDE? 🏡 Moderne verf, goeie vensters, 'n mooi tuin en 'n lekker braai area 👌🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/koop-prys-landing-page\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -145,7 +382,7 @@
      ],
      "zip": "dl/week-2/begin-waar-dit-werk-alle-skyfies.zip",
      "trailer": {
-      "label": "Hoe om die regte eiendom te kies werkswinkel (trailer op die blad)",
+      "label": "Hoe om die regte eiendom te kies werkswinkel",
       "url": "https://www.albertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing/"
      },
      "caption": "GEEN MILJOENE NIE? 📍 Ek het in die Moot begin, nie in Pretoria se duurste areas nie ☝🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -164,10 +401,10 @@
      ],
      "zip": "dl/week-2/direkteur-self-employed-alle-skyfies.zip",
      "trailer": {
-      "label": "Hoe kry jy die geld werkswinkel (trailer op die blad)",
+      "label": "Hoe kry jy die geld werkswinkel",
       "url": "https://www.albertvanwyk.com/kry-die-geld-landing/"
      },
-     "caption": "WERK JY VIR JOU EIE MAATSKAPPY? 😳 Kry dit eers reg voor jy by die bank aanklop ☝🏻\n\nEk wys jou hoe om die geld te kry in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kry-die-geld-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
+     "caption": "WERK JY VIR JOU EIE MAATSKAPPY? 😳 Kyk eers na jou direkteurskap voor jy by die bank aanklop ☝🏻\n\nEk wys jou hoe om die geld te kry in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kry-die-geld-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
     },
     {
      "id": "studente-huurders",
@@ -193,7 +430,7 @@
      ],
      "zip": "dl/week-2/studente-huurders-alle-skyfies.zip",
      "trailer": {
-      "label": "Kies die regte Huurder werkswinkel (trailer op die blad)",
+      "label": "Kies die regte Huurder werkswinkel",
       "url": "https://www.albertvanwyk.com/kies-die-regte-huurder-landing/"
      },
      "caption": "VERHUUR JY AAN STUDENTE? 🎓 Wat was jou grootste kopseer tot nou toe? Laat weet my 💬\n\nEk wys jou hoe ek keur in Eiendom Akademie 👇🏻\nalbertvanwyk.com/kies-die-regte-huurder-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #huurders"
@@ -227,7 +464,7 @@
      ],
      "zip": "dl/week-2/koop-met-huurders-alle-skyfies.zip",
      "trailer": {
-      "label": "Lease Agreements werkswinkel (trailer op die blad)",
+      "label": "Lease Agreements werkswinkel",
       "url": "https://www.albertvanwyk.com/lease-agreements-landing/"
      },
      "caption": "WIL JY DIE HUURDERS HOU? 🔑 Laat die verkoper die ou kontrakte kanselleer, bied dan self 'n nuwe een op skrif aan ☝🏻\n\nMeer in Eiendom Akademie 👇🏻\nalbertvanwyk.com/lease-agreements-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -246,7 +483,7 @@
      ],
      "zip": "dl/week-2/onafhanklike-trustee-alle-skyfies.zip",
      "trailer": {
-      "label": "Wat is die regte struktuur werkswinkel (trailer op die blad)",
+      "label": "Wat is die regte struktuur werkswinkel",
       "url": "https://www.albertvanwyk.com/wat-is-die-regte-struktuur-landing/"
      },
      "caption": "WIE IS JOU ONAFHANKLIKE TRUSTEE? 🤔 Kyk eers in jou trustakte. Hy is dalk reeds daar gelys ☝🏻\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/wat-is-die-regte-struktuur-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #EiendomAkademie",
@@ -273,7 +510,7 @@
      ],
      "zip": "dl/week-1/superpower-leverage-alle-skyfies.zip",
      "trailer": {
-      "label": "Leverage en Perceived Value werkswinkel (trailer op die blad)",
+      "label": "Leverage en Perceived Value werkswinkel",
       "url": "https://www.albertvanwyk.com/leverage-perceived-value-landing/"
      },
      "caption": "VERKOOP OM GELD TE KRY? 🤔 Ek gebruik eerder perceived value om my eiendomme te leverage ⚡\n\nEk wys jou hoe in Eiendom Akademie 👇🏻\nalbertvanwyk.com/leverage-perceived-value-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie"
@@ -312,7 +549,7 @@
      ],
      "zip": "dl/week-1/villain-alle-skyfies.zip",
      "trailer": {
-      "label": "Kies die regte Huurder werkswinkel (trailer op die blad)",
+      "label": "Kies die regte Huurder werkswinkel",
       "url": "https://www.albertvanwyk.com/kies-die-regte-huurder-landing/"
      },
      "caption": "HET JY AL 'N HUURDER GEHAD WAT NIE BETAAL NIE? 🦹 Hoe het jy dit hanteer? Laat weet my 💬\n\nDie wettige pad staan in Eiendom Akademie 👇🏻\nalbertvanwyk.com/tenant-management-landing\n\nAlgemene inligting, nie regsadvies nie.\n#albertvanwyk #eiendom #huurders",
@@ -361,7 +598,7 @@
      "zip": "dl/week-1/origin-story-alle-skyfies.zip",
      "caption": "WATTER STRAAT KEN JY BETER AS ENIGIEMAND? 📍 Begin jou soektog daar ☝🏻\n\nEk wys jou hoe ek areas kies in Eiendom Akademie 👇🏻\nalbertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing\n\nAlgemene inligting, nie finansiële advies nie.\n#albertvanwyk #eiendom #EiendomAkademie",
      "trailer": {
-      "label": "Hoe om die regte eiendom te kies werkswinkel (trailer op die blad)",
+      "label": "Hoe om die regte eiendom te kies werkswinkel",
       "url": "https://www.albertvanwyk.com/hoe-om-die-regte-eiendom-te-kies-landing/"
      }
     }

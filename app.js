@@ -41,7 +41,7 @@
     }
     wrap.appendChild(counter);
     var btns=el('div','btns');dl=el('a','btn');btns.appendChild(dl);
-    if(post.zip){var z=el('a','btn cyan',n>1?'Laai alles af (zip)':'Zip');z.href=post.zip;z.setAttribute('download',post.zip.split('/').pop());btns.appendChild(z);}
+    if(post.zip){var z=el('a','btn cyan',n>1?'Laai alles af (zip)':'Laai af as zip');z.href=post.zip;z.setAttribute('download',post.zip.split('/').pop());btns.appendChild(z);}
     wrap.appendChild(btns);go(0);return wrap;
   }
   function captionBlock(label,text){
@@ -58,7 +58,7 @@
         a.appendChild(el('span','type',p.type));if(p.check_note)a.appendChild(el('p','check-note',p.check_note));a.appendChild(carousel(p));
         a.appendChild(captionBlock('Caption',p.caption));
         if(p.alt_caption)a.appendChild(captionBlock(p.alt_caption.label,p.alt_caption.text));
-        if(p.trailer){var t=el('p','trailer','Trailer: ');var l=el('a',null,p.trailer.label);l.href=p.trailer.url;l.target='_blank';l.rel='noopener';t.appendChild(l);a.appendChild(t);}
+        if(p.trailer){var t=el('p','trailer','Kursusblad met trailer: ');var l=el('a',null,p.trailer.label);l.href=p.trailer.url;l.target='_blank';l.rel='noopener';t.appendChild(l);a.appendChild(t);}
         sec.appendChild(a);
       });
       root.appendChild(sec);
