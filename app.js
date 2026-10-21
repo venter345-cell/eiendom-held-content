@@ -55,7 +55,7 @@
       var sec=el('section');sec.id=w.id;sec.appendChild(el('h2','week-title',w.title));if(w.note)sec.appendChild(el('p','week-note',w.note));
       w.posts.forEach(function(p){
         var a=el('article','panel');a.id=p.id;var h=el('div','post-head');h.appendChild(el('span','issue',p.issue||''));h.appendChild(el('h3',null,p.title));a.appendChild(h);
-        a.appendChild(el('span','type',p.type));a.appendChild(carousel(p));
+        a.appendChild(el('span','type',p.type));if(p.check_note)a.appendChild(el('p','check-note',p.check_note));a.appendChild(carousel(p));
         a.appendChild(captionBlock('Caption',p.caption));
         if(p.alt_caption)a.appendChild(captionBlock(p.alt_caption.label,p.alt_caption.text));
         if(p.trailer){var t=el('p','trailer','Trailer: ');var l=el('a',null,p.trailer.label);l.href=p.trailer.url;l.target='_blank';l.rel='noopener';t.appendChild(l);a.appendChild(t);}
